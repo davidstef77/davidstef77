@@ -1,16 +1,19 @@
 # Salut! Eu sunt David Ștef 👋🚀
 
-Sunt un pasionat web developer 💻 care iubește să creeze aplicații moderne, rapide și frumoase ✨. Îmi place să învăț tehnici noi și să le aplic în proiectele mele 🎯.
+Sunt un dezvoltator pasionat de web 💻 care iubește să creeze aplicații moderne, rapide și scalabile ✨. Îmi place să lucrez cu backend-uri solide și frontend-uri elegante 🎯.
 
 ---
 
 ## 🌟 Proiect recomandat: [MindCast](https://mindcast.netlify.app) 🌟
 
-MindCast este o aplicație web creată pentru a te ajuta să-ți organizezi gândurile și ideile 🧠💡, folosind tehnici interactive și design intuitiv. Perfectă pentru creativitate și productivitate maximă!
+MindCast este o aplicație web care te ajută să-ți organizezi și să-ți structurezi ideile 🧠💡 printr-o interfață intuitivă și prietenoasă. Perfectă pentru creativitate și productivitate!
 
 ### Tehnologii folosite 🛠️:
 
-- ⚛️ **React** + **Next.js** — pentru o experiență rapidă și SEO-friendly  
-- 🎨 **Tailwind CSS** — pentru styling modern și responsive  
-- 📝 **TypeScript** — pentru cod sigur și ușor de întreținut  
-- 🚀 **Netlify** — pentru hosting rapid și fiabil  
+- ⚛️ **React** + **TypeScript** — pentru un frontend robust și tipizat  
+- 🌐 **Node.js** + **Express** — pentru un backend rapid și flexibil  
+- 🍃 **MongoDB** — pentru o bază de date scalabilă și flexibilă  
+- 🎨 **Tailwind CSS** — pentru un design modern și responsive  
+- 🚀 **Netlify** — pentru hosting-ul frontend-ului  
+
+---
