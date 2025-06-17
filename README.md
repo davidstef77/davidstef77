@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut! Eu sunt David Ștef 👋🚀
 
-<!--
-**davidstef77/davidstef77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sunt un pasionat web developer 💻 care iubește să creeze aplicații moderne, rapide și frumoase ✨. Îmi place să învăț tehnici noi și să le aplic în proiectele mele 🎯.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proiect recomandat: [MindCast](https://mindcast.netlify.app) 🌟
+
+MindCast este o aplicație web creată pentru a te ajuta să-ți organizezi gândurile și ideile 🧠💡, folosind tehnici interactive și design intuitiv. Perfectă pentru creativitate și productivitate maximă!
+
+### Tehnologii folosite 🛠️:
+
+- ⚛️ **React** + **Next.js** — pentru o experiență rapidă și SEO-friendly  
+- 🎨 **Tailwind CSS** — pentru styling modern și responsive  
+- 📝 **TypeScript** — pentru cod sigur și ușor de întreținut  
+- 🚀 **Netlify** — pentru hosting rapid și fiabil  
