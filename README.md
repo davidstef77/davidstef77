@@ -4,3 +4,5 @@ I’m a passionate web developer 💻 who loves creating modern, fast, and scala
 
 ⸻
 
+MindCast - https://www.mindcast.netlify.app
+
